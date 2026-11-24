@@ -7,7 +7,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/DrK0j07/naloga5/vreme"
+	"github.com/DrK0j07/vpsa_naloga5/vreme"
 	"github.com/urfave/cli/v3"
 )
 

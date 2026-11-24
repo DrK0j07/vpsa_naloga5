@@ -7,8 +7,6 @@ import (
 	"sort"
 )
 
-// Package vreme omogoča delo z vremenskimi postajami in njihovimi meritvami.
-
 // Postaja predstavlja vremensko postajo.
 // Polja so zasebna in dostopna samo znotraj paketa vreme.
 type Postaja struct {
