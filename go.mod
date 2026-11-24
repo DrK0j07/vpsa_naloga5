@@ -1,0 +1,5 @@
+module github.com/DrK0j07/vpsa_naloga5
+
+go 1.23.0
+
+require github.com/urfave/cli/v3 v3.14.0
